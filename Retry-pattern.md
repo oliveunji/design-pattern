@@ -27,6 +27,6 @@
 트랜잭션의 경우, 트랜잭션의 일관성에 미치는 영향 고려해야 함
 
 ### 링크
-[Retry Pattern 안내문서](https://learn.microsoft.com/en-us/azure/architecture/patterns/retry)
-[Azure Service의 Retry 안내문서](https://learn.microsoft.com/en-us/azure/architecture/best-practices/retry-service-specific)
-[Retry 관련 프레임워크 - Resilience4j](https://github.com/resilience4j/resilience4j)
+- [Retry Pattern 안내문서](https://learn.microsoft.com/en-us/azure/architecture/patterns/retry)
+- [Azure Service의 Retry 안내문서](https://learn.microsoft.com/en-us/azure/architecture/best-practices/retry-service-specific)
+- [Retry 관련 프레임워크 - Resilience4j](https://github.com/resilience4j/resilience4j)
